@@ -131,7 +131,3 @@ The Model Context Protocol provides a standardized way for AI assistants to inte
 ## License
 
 Copyright © 2015–2025 CoreDump Engineering. All rights reserved.
-
----
-
-**Note**: This tool provides debugging capabilities to AI assistants. The specific implementation details are intentionally abstracted to maintain competitive advantage while providing maximum value to users.
